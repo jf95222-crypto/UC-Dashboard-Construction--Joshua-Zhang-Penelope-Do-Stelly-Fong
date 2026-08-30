@@ -1,5 +1,8 @@
 # v4
 
+QUESTION:
+Between Fall 2021 and Fall 2025 (time window), how did the freshman admit rate for Asian applicants at UC Santa Cruz (population of interest) change, measured in percentage point difference (metric being measured)?
+
 Methodology
 This project analyzes how the freshman admit rate for Asian applicants at UC Santa Cruz changed between Fall 2021 and Fall 2025. The analysis uses UC admissions data containing information on campus, fall term, entrant level, ethnicity, count type, and number of students.
 
